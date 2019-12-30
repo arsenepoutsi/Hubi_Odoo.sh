@@ -1,0 +1,1 @@
+# Hubi_Odoo.sh
